@@ -8,7 +8,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 98vh;
+    min-height: 92vh;
+    min-width: 0vh ;
 }
 
 .nav-list {
@@ -31,7 +32,7 @@
 .nav-item a {
     background: blanchedalmond;
     text-decoration: none;
-    color:#8b4513; 
+    color:#8b4513;
 
 }
 .nav-item:first-child {
